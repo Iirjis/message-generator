@@ -6,9 +6,9 @@ const generateButton = document.getElementById("generateButton");
 
 const generateRandomWord = () => {
     let animalIndex = Math.floor(Math.random() * animals.length);
-    document.getElementById("first").innerHTML = `You are a ${animals[animalIndex]}`;
+    document.getElementById("first").innerHTML = `You are a ${animals[animalIndex]}.`;
     let featuresIndex = Math.floor(Math.random() * features.length);
-    document.getElementById("second").innerHTML = `You have ${features[featuresIndex]}`;
+    document.getElementById("second").innerHTML = `You have ${features[featuresIndex]}.`;
     let mottoIndex = Math.floor(Math.random() * motto.length);
     document.getElementById("third").innerHTML = `Motto of the day is ${motto[mottoIndex]}`;
 }
