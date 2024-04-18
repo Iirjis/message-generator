@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-size: 16px;
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: "Sacramento", sans-serif;
+    font-size: 4rem;
+}
+
+div {
+    font-size: 1.5rem;
+    font-family: "Handlee", sans-serif;
+    line-height: 3rem;
+}
+
+button {
+    margin-top: 2rem;
+    font-family: "Handlee", sans-serif;
+}
