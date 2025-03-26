@@ -2,7 +2,7 @@
 
 ## Description:
 
-For this **Codecademy** project I build a message generator program.  Every time a user runs a program, they should get a new, randomized output.
+For this **Codecademy** project I build a message generator program.  Every time a user runs the program, they should get a new, randomized output.
 
 This app generates a random animal and a funny random feature and motto for it. :rabbit:
 
